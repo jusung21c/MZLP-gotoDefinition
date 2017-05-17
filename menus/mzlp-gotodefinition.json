@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle mzlp-gotodefinition",
+        "command": "mzlp-gotodefinition:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "mzlp-gotodefinition",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "mzlp-gotodefinition:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
