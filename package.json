@@ -6,7 +6,7 @@
   "hyperclick":"^0.0.40",
   "etch": "^0.12.2"
 },
-"description": "Goto definition.",
+"description": "Goto definition for Mediazen Lp Team",
 "devDependencies": {
   "eslint": "^3.18.0",
   "eslint-config-airbnb": "^14.1.0",
@@ -31,6 +31,8 @@
   "type": "git",
   "url": "git+https://github.com/jusung21c/MZLP_gotoDefinition.git"
 },
+"keywords": ["mzlp","mediazen","lpteam","juicyjusung"
+],
 "scripts": {
   "lint": "eslint .",
   "test": "apm test"
