@@ -3,6 +3,7 @@
 },
 "dependencies": {
   "atom-select-list": "^0.2.0",
+  "hyperclick":"^0.0.40",
   "etch": "^0.12.2"
 },
 "description": "Goto definition.",
