@@ -42,8 +42,9 @@
     "url": "https://github.com/jusung21c/mzlp-gotodefinition/issues"
   },
   "dependencies": {
+    "atom-package-dependencies": "^1.0.3",
     "atom-select-list": "^0.2.0",
-    "etch": "^0.12.2"
+    "etch": "^0.12.6"
   },
   "description": "Goto definition for Mediazen Lp Team",
   "devDependencies": {
