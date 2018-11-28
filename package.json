@@ -62,9 +62,9 @@
   "name": "mzlp-gotodefinition",
   "optionalDependencies": {},
   "providedServices": {
-    "hyperclick.provider": {
+    "hyperclick": {
       "versions": {
-        "0.0.0": "getProvider"
+        "0.1.0": "getProvider"
       }
     }
   },
